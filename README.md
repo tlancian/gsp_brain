@@ -1,5 +1,7 @@
 # GSP x NetworkTheory
 
+![](image.png)
+
 Final Project for course of "Signal Processing of Big Data", held by Prof. Sergio Barbarossa and Prof. Paolo di Lorenzo.
 
 ### Description
