@@ -6,8 +6,7 @@ data = pd.read_csv("dataset_rec.csv", index_col = False)
 
 
 combos = [["gft", "dg", "bc", "cc"], ["gft", "dg", "bc"], ["gft", "dg", "cc"],
-          ["gft", "bc", "cc"], ["gft", "dg"], ["gft", "bc"], ["gft", "cc"],
-          ["gft"], ["dg"], ["bc"], ["cc"]]
+          ["gft", "bc", "cc"], ["gft"], ["dg"], ["bc"], ["cc"]]
 
 
 
